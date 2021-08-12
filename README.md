@@ -1,2 +1,2 @@
 # first-html-project
-first make html page
+tutorial dari lord pak sandika galih
